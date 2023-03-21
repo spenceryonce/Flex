@@ -11,8 +11,8 @@ Flex is a front-end framework designed to simplify data binding and state manage
 
 Run the development server using:
 
-```node dev```
+```npm run dev```
 
 Run the tests using:
 
-```node test```
+```npm run test```
