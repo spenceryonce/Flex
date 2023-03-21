@@ -1,0 +1,35 @@
+{
+  "name": "flex",
+  "version": "0.0.1",
+  "description": "An extremely lightweight front end framework for super fast data-binding, and easy component creation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "frontend",
+    "framework",
+    "front",
+    "end",
+    "component",
+    "data",
+    "binding",
+    "data",
+    "binding"
+  ],
+  "author": "Spencer Yonce",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/plugin-transform-runtime": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/runtime": "^7.21.0",
+    "babel-jest": "^29.5.0",
+    "eslint": "^8.36.0",
+    "jest": "^29.5.0",
+    "parcel": "^2.8.3",
+    "parcel-bundler": "^1.12.5",
+    "prettier": "^2.8.4"
+  }
+}
